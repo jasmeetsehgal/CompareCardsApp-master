@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<applicationconfiguration>
+	<card-group id="creditcards" name="Credit Cards">
+		<group-description><![CDATA[
+		<p class="left">Credit cards offer a revolving line of credit, allowing you to carry your balance forward from month to month rather than paying the amount owing in full. However, a minimum repayment amount each month will need to be honoured. </p><p class="right">If you choose to pay your balance in full and on time, interest charges will not be applicable. Our credit cards also offer you automatic enrolment into our Membership Rewards programs, so you can benefit from spending on your Card.</p>
+		]]>
+		</group-description>
+		<card id="1" name="American Express Platinum Reserve Credit Card">
+			<card-image url="assets/img/CreditCards_01.png" />
+			<top-features><![CDATA[
+				<ul>
+					<li>Complimentary Virgin Blue domestic or international economy return flight<sup>1</sup> (<a href="http://www.americanexpress.com/australia/campaigns/platinum_reserve/destination_guide.shtml" target="_blank">see destination guide</a>) or a night's stay in one of our <a href="http://www.americanexpress.com/australia/pdfs/PRCC_HotelNightStayOffer.pdf" target="_blank">selected luxury hotels</a><sup>2</sup> each year.</li>
+					<li>Earn 1.5 Membership Rewards points for every dollar spent<sup>3</sup>, up to $100,000 p.a.</li>
+				</ul>
+			]]>
+			</top-features>
+			<benefits><![CDATA[
+			<ul>
+					<li>- A complimentary Virgin Blue domestic or international economy return flight<sup>1</sup> (<a href="http://www.americanexpress.com/australia/campaigns/platinum_reserve/destination_guide.shtml" target="_blank">see flight destination guide</a>) or a night’s stay in one of our <a href="http://www.americanexpress.com/australia/pdfs/PRCC_HotelNightStayOffer.pdf" target="_blank">selected luxury hotels</a><sup>2</sup> each year.</li>
+					<li>- Complimentary Priority Pass membership including 2 lounge passes per year<sup>3</sup>.</li>
+					<li>- Overseas and Domestic Travel Insurance<sup>4</sup>.
+				</ul>
+			]]>
+			</benefits>
+			<rewards-features><![CDATA[
+				<ul>
+					<li>- Complimentary enrolment in Membership Rewards <i>Ascent</i><sup>5</sup>.</li>
+					<li>- $1 spent = 1.5 Membership Rewards points up to $100,000 p.a. (reset thereafter).</li>
+				</ul>			
+			]]>
+			</rewards-features>
+      <interest-rate><![CDATA[
+        20.74% p.a.<sup>6</sup>
+      ]]>
+      </interest-rate>
+			<annual-fee value="$395" />
+			<supp-fee value="$0"/>
+			<application-form url="https://www252.americanexpress.com/inga/au/pers/begin.do?perform=IntlEapp:AU:platinum&amp;sourcecode=1L1261SC01" />
+			<product-page url="http://www.americanexpress.com/australia/microsite/platinum-reserve-credit-card.shtml" />
+			<terms><![CDATA[
+				<ul>
+					<li>All flights are subject to availability and American Express does not guarantee that seats nor tickets will be available on the dates or at the times you may wish to fly. Seat availability may be limited to certain dates and/or flights and it may be more difficult to book seats around public holidays, school holidays or special events. Some flights may not have any seats available for redemption. Route availability is subject to change without notice. All travel is subject to the American Express Flight Offer Conditions.</li>
+					<li>Hotel night stay is based on a standard room with two people sharing and must be booked two weeks in advance of stay. Subject to availability. Blackout dates may apply.  </li>
+					<li>Subject to Terms and Conditions of the Membership Rewards program available <a href="http://membershiprewards.com.au/termsandconditions" target="_blank">here</a>. Earn 1.5 Membership Rewards points per dollar spent up to $100,000 p.a. reverting to 1 point per dollar spent thereafter (reset annually).</li>
+				</ul>
+				]]>
+			</terms>
+  		<terms-full><![CDATA[
+          <ul>
+            <li>All flights are subject to availability and American Express does not guarantee that seats nor tickets will be available on the dates or at the times you may wish to fly. Seat availability may be limited to certain dates and/or flights and it may be more difficult to book seats around public holidays, school holidays or special events. Some flights may not have any seats available for redemption. Route availability is subject to change without notice. All travel is subject to the American Express Flight Offer Conditions. </li>
+            <li>Hotel night stay is based on a standard room with two people sharing and must be booked two weeks in advance of stay. Subject to availability. Blackout dates may apply.</li>
+            <li>The first 2 visits within each 12-month membership period are complimentary to the basic Card member only, after which every visit would be charged as per the prevailing rates; currently USD27 per person. Any accompanying guests will be charged USD27 per visit, which will be automatically charged on the Card member’s American Express Platinum Reserve Credit Card. Unused visits cannot be carried forward to the following year of membership. The number of complimentary visits will be reset to 2 per each 12-month period. Renewal terms and conditions are at the discretion of Priority Pass Ltd.</li>
+            <li>American Express Platinum Reserve Credit Card Insurances are underwritten by ACE Insurance Limited (ABN 23 001 642 020, AFSL No. 239687) (ACE) and are subject to the terms, conditions and exclusions contained in the American Express Platinum Reserve Credit Card Insurances policy of insurance between American Express Australia Limited (ABN 92 108 952 085, AFSL No. 291313) (American Express) and ACE. This site does not take into account your objectives, financial situation or needs. It is important for you to read the Terms and Conditions  available <a href="https://secure.cmax.americanexpress.com/Internet/International/japa/AU_en/Personal/prospect/Choose%20A%20Card/All%20Cards/Platinum%20Reserve%20Credit%20Card/Platinum_Reserve_Insurance.pdf" target="_blank">here</a> and consider the appropriateness of that insurance in relation to your individual requirements.</li>
+            <li>Subject to the Terms and Conditions of the Membership Rewards program available <a href="http://www.membershiprewards.com.au/termsandconditions" target="_blank">here</a>. </li>
+            <li>All Interest Rates are quoted as an Annual Percentage Rate. All information is correct as at 16 December 2010 and is subject to change.</li>
+          </ul>
+        ]]>
+      </terms-full>  
+			<hide-cards id-list="2,3" />
+			<business/>
+			<personal value="true" />
+			<charge />
+			<credit value="true" />
+			<travel value="true" />
+			<rewards value="true" />
+			<fly-partner-qantas />
+			<fly-partner-other value="true" />
+			<accelerated-points value="true" />
+		</card>
+    <card id="2" name="American Express Platinum Edge Credit Card">
+      <card-image url="assets/img/CreditCards_02.png"/>
+      <top-features><![CDATA[
+        <ul>
+        <li>Complimentary Virgin Blue domestic economy return flight (<a href="http://www.americanexpress.com/australia/campaigns/platinum_edge/destination_guide.shtml" target="_blank">see destination guide</a>) each year<sup>1</sup>.</li>
+        <li>Earn points up to 3x faster with Membership Rewards 3-2-1<sup>2</sup>.</li>
+        </ul>
+        ]]>
+      </top-features>
+      <benefits><![CDATA[
+        <ul><li>- A complimentary Virgin Blue domestic economy return flight (<a href="http://www.americanexpress.com/australia/campaigns/platinum_reserve/destination_guide.shtml" target="_blank">see flight destination guide</a>) each year<sup>1</sup>.</li>
+        <li>- Complimentary Domestic and International Travel Insurance<sup>2</sup>.</benefits></li>
+        <ul>
+        ]]>
+      </benefits>
+      <rewards-features><![CDATA[
+        <ul><li>- Complimentary enrolment in Membership Rewards <i>Ascent</i><sup>3</sup>.</li>
+        <li>- Earn points up to 3x faster with Membership Rewards 3-2-1<sup>3</sup>:<br>
+        &nbsp; - 3 points at major supermarkets<br>
+        &nbsp; - 2 points at major petrol stations<br>
+        &nbsp; - 1 point on other purchases<br></li>
+        </ul>
+        ]]>
+      </rewards-features>
+      <interest-rate><![CDATA[
+        20.49% p.a.<sup>4</sup>
+      ]]>
+      </interest-rate>
+      <annual-fee value="$149"/>
+      <supp-fee value="$0"/>
+      <application-form url="https://www252.americanexpress.com/inga/au/pers/begin.do?perform=IntlEapp:AU:platlifestyle&amp;sourcecode=1L1262SC01"/>
+      <product-page url="http://www.americanexpress.com/australia/microsite/platinum-edge-credit-card.shtml#sub5"/>
+      <terms><![CDATA[
+				<ul>
+					<li>All flights are subject to availability and American Express does not guarantee that seats nor tickets will be available on the dates or at the times you may wish to fly. Seat availability may be limited to certain dates and/or flights and it may be more difficult to book seats around public holidays, school holidays or special events. Some flights may not have any seats available for redemption. Route availability is subject to change without notice. All travel is subject to the American Express Flight Offer Conditions. </li>
+					<li>Subject to the Terms and Conditions of the Membership Rewards program available <a href="http://membershiprewards.com.au/termsandconditions" target="_blank">here</a>. Participating retailers include the following merchants who have been classified as "major supermarkets": Bi-Lo, Flemings, Safeway, Woolworths, Coles, IGA, Franklins, Fishers, Fresh Provisions, Food For Less, Supabarn, Macro Wholefoods. Participating retailers include the following merchants who have been classified as "major petrol stations": BP, Shell, Caltex, Woolworths, 7-Eleven, Woolworths Petrol, Safeway Petrol, Peak & Gull. Exceptions may apply if an individual merchant trading as one of the abovenamed retailers does not accept American Express as a form of payment. Purchases at major supermarket and major petrol station retailers are only eligible for additional points if the transactions are made in Australia.</li>
+				</ul>
+				]]>
+      </terms>
+  		<terms-full><![CDATA[
+          <ul>
+            <li>All flights are subject to availability and American Express does not guarantee that seats or tickets will be available on the dates or at the times you may wish to fly. Seat availability may be limited to certain dates and/or flights and it may be more difficult to book seats around public holidays, school holidays or special events. Some flights may not have any seats available for redemption. Route availability is subject to change without notice. All travel is subject to the American Express Flight Offer Conditions. </li>
+            <li>American Express Platinum Edge Credit Card Insurances are underwritten by ACE Insurance Limited (ABN 23 001 642 020, AFSL No. 239687) (ACE) and are subject to the terms, conditions and exclusions contained in the American Express Platinum Edge Credit Card Insurances policy of insurance between American Express Australia Limited (ABN 92 108 952 085, AFSL No. 291313) (American Express) and ACE. This site does not take into account your objectives, financial situation or needs. It is important for you to read the <a href="https://secure.cmax.americanexpress.com/Internet/International/japa/AU_en/Personal/shared/files/Platinum_Edge_Insurance.pdf" target="_blank">Terms and Conditions</a> and consider the appropriateness of that insurance in relation to your individual requirements.</li>
+            <li>Subject to the Terms and Conditions of the Membership Rewards program available <a href="http://membershiprewards.com.au/termsandconditions" target="_blank">here</a>. Participating retailers include the following merchants who have been classified as "major supermarkets": Bi-Lo, Flemings, Safeway, Woolworths, Coles, IGA, Franklins, Fishers, Fresh Provisions, Food For Less, Supabarn, Macro Wholefoods. Participating retailers include the following merchants who have been classified as "major petrol stations": BP, Shell, Caltex, Woolworths, 7-Eleven, Woolworths Petrol, Safeway Petrol, Peak & Gull. Exceptions may apply if an individual merchant trading as one of the abovenamed retailers does not accept American Express as a form of payment. Purchases at major supermarket and major petrol station retailers are only eligible for additional points if the transactions are made in Australia.</li>
+            <li>All Interest Rates are quoted as an Annual Percentage Rate. All information is correct as at 16 December 2010 and is subject to change.</li>
+          </ul>
+        ]]>
+      </terms-full>  
+      <hide-cards id-list="3"/>
+      <business/>
+      <personal value="true"/>
+      <charge/>
+      <credit value="true"/>
+      <travel value="true"/>
+      <rewards value="true"/>
+      <fly-partner-qantas/>
+      <fly-partner-other value="true"/>
+      <accelerated-points value="true"/>
+    </card>
+    <card id="3" name="American Express Gold Ascent Credit Card">
+      <card-name><![CDATA[
+          American Express Gold <em>Ascent</em> Credit Card
+        ]]>
+      </card-name>
+      <card-image url="assets/img/CreditCards_03.png"/>
+      <top-features><![CDATA[
+        <ul><li>Complimentary access to Membership Rewards <i>Ascent</i> - earn 1 point for every $2 spent<sup>1</sup>.</li>
+        <li>$0 annual Card fee.</li>
+        </ul>
+        ]]>
+      </top-features>
+      <benefits><![CDATA[
+        <ul><li>- Redeem points with 7 airline partner rewards programs including Air New Zealand, Cathay Pacific, Malaysia Airlines, Singapore Airlines, Thai Airways International, Velocity and Virgin Atlantic<sup>1</sup>.</li>
+        </ul>
+        ]]>
+      </benefits>
+      <rewards-features><![CDATA[
+        <ul><li>- Complimentary enrolment in Membership Rewards <i>Ascent</i><sup>1</sup>.</li>
+        <li>- $2 spent = 1 Membership Rewards point<sup>1</sup>.</li>
+        <ul>
+        ]]>
+      </rewards-features>
+      <interest-rate><![CDATA[
+        20.74% p.a.<sup>2</sup>
+      ]]>
+      </interest-rate>
+      <annual-fee value="$0"/>
+      <supp-fee value="$0"/>
+      <application-form url="https://www252.americanexpress.com/inga/au/pers/begin.do?perform=IntlEapp:AU:goldrm&amp;sourcecode=1L1263RC01"/>
+      <product-page url="http://www.americanexpress.com/australia/microsite/gold-ascent-credit-card.shtml"/>
+      <terms><![CDATA[
+				<ul>
+					<li>Enrolment in Membership Rewards <i>Ascent</i> required. Enrolment in Membership Rewards <i>Ascent</i> is complimentary. If you choose to select the ‘Boost my points (A)’ option on the Card application form, an $80 annual fee will apply to your Membership Rewards <i>Ascent</i> program. Subject to the Terms and Conditions of the <a href="http://membershiprewards.com.au/termsandconditions" target="_blank">Membership Rewards</a> program. Subject to hotel, car and airline availability.</li>
+				</ul>
+				]]>
+      </terms>
+  		<terms-full><![CDATA[
+          <ul>
+            <li>Enrolment in Membership Rewards <i>Ascent</i> required. Enrolment in Membership Rewards <i>Ascent</i> is complimentary. If you choose to select the "Boost my points (A)"; option on the Card application form, an $80 annual fee will apply to your Membership Rewards <i>Ascent</i> program. Subject to the <a href="http://membershiprewards.com.au/termsandconditions" target="_blank">Terms and Conditions</a> of the Membership Rewards program. </li>
+            <li>All Interest Rates are quoted as an Annual Percentage Rate. All information is correct as at 16 December 2010 and is subject to change.</li>
+          </ul>
+        ]]>
+      </terms-full>  
+      <hide-cards/>
+      <business/>
+      <personal value="true"/>
+      <charge/>
+      <credit value="true"/>
+      <travel value="true"/>
+      <rewards value="true"/>
+      <fly-partner-qantas/>
+      <fly-partner-other value="true"/>
+      <accelerated-points/>
+    </card>
+
+  </card-group>
+  <card-group id="chargecards" name="Charge Cards">
+    <group-description><![CDATA[
+      <p class="left">Charge cards require you to pay off the full amount you have charged each month. By doing so, they can help you control spending and stay on track with your monthly budget. </p><pclass="right">Charge cards offer a choice of rewards programs in which you can choose to enrol, so you can benefit from spending on your Card.</p>
+      ]]>
+    </group-description>
+	<card id="4" name="American Express Platinum Card">
+   <card-image url="assets/img/ChargeCards_01.png" />
+      <top-features><![CDATA[
+        <ul><li>Enjoy a higher earn rate in Membership Rewards <i>Ascent Premium</i> - 1.5 points for every $1 spent<sup>1</sup>.</li>
+        <li>Choice of 8 airline partner programs including Qantas<sup>1</sup>.</li>
+        </ul>
+        ]]>
+      </top-features>
+      <benefits><![CDATA[
+        <ul><li>- Platinum Travel Service<sup>1</sup> - with just one call we can arrange your flights, hotels, cruises and tours with access to Card member-only rates.</li>
+        <li>- Complimentary Priority Pass membership<sup>2</sup> - live it up at over 600 VIP airport lounges worldwide.</li>
+        <li>- Access our unique Concierge Service<sup>3</sup> 24/7. </li>
+        <li>- Airline Privileges Program<sup>4</sup> - enjoy significant savings with 13 Airline Partners. </li>
+        <li>- Complimentary Travel Insurance<sup>5</sup>.</li>
+        </ul>
+        ]]>
+      </benefits>
+      <rewards-features><![CDATA[
+        <ul><li>- Complimentary enrolment in Membership Rewards <i>Ascent Premium</i><sup>6</sup>.</li>
+        <li>-Transfer your points to a choice of 8 different airline reward programs including Qantas<sup>7</sup>. </li>
+        <li>- Enjoy a higher earn rate - $1 spent = 1.5 Membership Rewards points<sup>8</sup>. </li>
+        </ul>
+        ]]>
+      </rewards-features>
+      <interest-rate><![CDATA[
+        NA
+      ]]>
+      </interest-rate>
+      <annual-fee value="$900"/>
+      <supp-fee value="$0"/>
+      <application-form url="https://www252.americanexpress.com/inga/au/pers/begin.do?perform=IntlEapp:AU:platinum_charge&amp;sourcecode=1L1264PC01"/>
+      <product-page url="http://www.americanexpress.com/australia/microsite/the-platinum-card.shtml"/>
+      <terms><![CDATA[
+				<ul>
+					<li>Subject to the Terms and Conditions of the Membership Rewards program available <a href="http://membershiprewards.com.au/termsandconditions" target="_blank">here</a>. Earn 1.5 Membership Rewards points per dollar spent up to $100,000 p.a. reverting to 1 point per dollar spent thereafter (reset annually). To transfer Membership Rewards points into an airline rewards or frequent guest partner program you must be enrolled in Membership Rewards <i>Ascent Premium</i> and be a member of the partner program. Membership of the partner program is the Card member’s responsibility and is subject to the Terms and Conditions of the applicable program. A joining fee may apply. Award seats are not available on all routes. Please check availability with the partner prior to transferring your points. Charges/levies/taxes may apply. The redemption of points will be administered solely by American Express. A minimum redemption amount applies. American Express holds no responsibility for flight or accommodation availability, which may be limited. This is at the sole discretion of the airline and hotel partners.</li>
+				</ul>
+				]]>
+      </terms>
+  		<terms-full><![CDATA[
+          <ul>
+            <li>All fees or amounts payable in relation to the services are inclusive of GST where applicable. All fees, taxes and charges levied by the travel providers and/or air travel suppliers still apply and these are subject to change without notice until such time as tickets are issued. Domestic ticketing includes New Zealand. Full Terms and Conditions available <a href="http://www.iplatinum.americanexpress.com/prospect/australia/DOServlet?name=plat_ticketing_tcs" target="_blank">here</a>. Travel services provided by American Express International, Inc. ABN 15 000 618 208. Incorporated with limited liability in Delaware, USA. Licensed Travel Agent, 12 Shelley Street, Sydney NSW 2000. Licence No. NSW 2TA000113, ACT 212/D, QLD TAG132, VIC 30233, WA 9TA81, SA TTA 214584, TAS TAS064.</li>
+            <li>One complimentary membership per Platinum account, with a reduced membership of USD299 per year available for one Supplementary Platinum Card member per account. Please allow at least 10 working days for your Priority Pass™ Card via post. You will be required to show your Priority Pass Card on entry. Partners and benefits are subject to change without notice. </li>
+            <li>There is typically no cost for Platinum Concierge, although you are responsible for any purchase and/or shipping charges you authorise. Fees may apply for meetings and event planning. </li>
+            <li>Terms and Conditions apply. Airline partners, destinations and benefits are subject to change without notice. All bookings must be made through the Platinum Travel Service and with the Platinum Card. </li>
+            <li>American Express Platinum Card Insurances are underwritten by ACE Insurance Limited (ABN 23 001 642 020, AFSL No. 239687) (ACE) and are subject to the terms, conditions and exclusions contained in the American Express Platinum Card insurances policy of insurance between American Express Australia Limited (ABN 92 108 952 085, AFSL No. 291313) (American Express) and ACE. This does not take into account your objectives, financial situation or needs. It is important for you to read the Terms and Conditions available <a href="https://www.iplatinum.americanexpress.com/prospect/australia/DOServlet?name=TandCs" target="_blank">here</a> and consider the appropriateness of that insurance in relation to your individual requirements.</li>
+            <li>Subject to the Terms and Conditions of the Membership Rewards program available <a href="http://membershiprewards.com.au/termsandconditions" target="_blank">here</a>. To transfer Membership Rewards points into an airline rewards or frequent guest partner program you must be enrolled in Membership Rewards <i>Ascent Premium</i> and be a member of the partner program. Membership of the partner program is the Card members' responsibility and is subject to the Terms and Conditions of the applicable program. A joining fee may apply. Award seats are not available on all routes. Please check availability with the partner prior to transferring your points. Charges/levies/taxes may apply. The redemption of points will be administered solely by American Express. A minimum redemption amount applies. American Express holds no responsibility for flight or accommodation availability, which may be limited. This is at the sole discretion of the airline and hotel partners. </li>
+            <li>Qantas Frequent Flyer members only. Membership of the Qantas Frequent Flyer program is subject to the terms and conditions of the Qantas Frequent Flyer program available <a href="http://www.qantas.com.au/fflyer/dyn/program/welcome" target="_blank">here</a>. A joining fee applies. Under Membership Rewards <i>Ascent Premium</i> a minimum of 2,000 Membership Rewards points may be redeemed for Qantas Frequent Flyer points at any one time and must be in whole numbers. Once Membership Rewards points have been redeemed for Qantas Frequent Flyer points, they are governed by the terms and conditions of the Qantas Frequent Flyer program and cannot be reversed. Award flight availability (particularly Classic Awards) is limited particularly around peak times such as school and public holiday and other peak times. </li>
+            <li>Subject to the Terms and Conditions of the Membership Rewards program. Every $1 spent on your Card earns up to 1.5 Membership Rewards points up to $200,000 each year, reverting to one point for every dollar thereafter.</li>
+          </ul>
+        ]]>
+      </terms-full>  
+      <hide-cards id-list="5,6"/>
+      <business/>
+      <personal value="true"/>
+      <charge value="true"/>
+      <credit/>
+      <travel value="true"/>
+      <rewards value="true"/>
+      <fly-partner-qantas value="true"/>
+      <fly-partner-other value="true"/>
+      <accelerated-points value="true"/>
+    </card>
+	<card id="5" name="American Express Gold Card">
+     <card-image url="assets/img/ChargeCards_02.png" />
+      <top-features><![CDATA[
+        <ul><li>Enrol in Membership Rewards program and earn 1 point for every $1 spent<sup>1</sup>.</li>
+        <li>Overseas Travel and Accident insurance<sup>2</sup>.</li>
+        </ul>
+        ]]>
+      </top-features>
+      <benefits><![CDATA[
+        <ul><li>- Complimentary Overseas Travel and Accident insurance<sup>1</sup>. </li>
+        <li>- Purchase and Refund protection which will cover you for eligible items purchased with your Card<sup>1</sup>.</li></ul>
+        </ul>
+        ]]>
+      </benefits>
+      <rewards-features><![CDATA[
+        <ul><li>- Choice to enrol in Membership Rewards <i>Ascent</i> or <i>Choices</i>. </li>
+        <li>- $1 spent = 1 Membership Rewards point<sup>2</sup>.</li></ul>
+        ]]>
+      </rewards-features>
+      <interest-rate><![CDATA[
+        NA
+      ]]>
+      </interest-rate>
+      <annual-fee value="$130"/>
+      <supp-fee value="$65"/>
+      <application-form url="https://www252.americanexpress.com/inga/au/pers/begin.do?perform=IntlEapp:AU:gold_charge&amp;sourcecode=1L1265OC01"/>
+      <product-page url="http://www.americanexpress.com/australia/microsite/gold-card.shtml"/>
+      <terms><![CDATA[
+				<ul>
+					<li>Subject to Terms and Conditions of the Membership Rewards program available <a href="http://membershiprewards.com.au/termsandconditions" target="_blank">here</a>.</li>
+					<li>American Express Gold Card Insurances are underwritten by ACE Insurance Limited (ABN 23001 642 020, AFSL No. 239687) (ACE) and are subject to the terms, conditions and exclusions contained in the American Express Gold Card Insurances policy of insurance between American Express Australia Limited (ABN 92 108 952 085, AFSL No. 291313) (American Express) and ACE. This information does not take into account your objectives, personal situation or needs. It is important for you to read the Terms and Conditions available <a href="http://www.americanexpress.com.au/goldcard" target="_blank">here</a> and consider the appropriateness of that insurance in relation to your individual requirements.</li>
+				</ul>
+				]]>
+      </terms>
+   		<terms-full><![CDATA[
+          <ul>
+            <li>American Express Gold Card Insurances are underwritten by ACE Insurance Limited (ABN 23 001 642 020, AFSL No. 239687) (ACE) and are subject to the terms, conditions and exclusions contained in the American Express Gold Card Insurances policy of insurance between American Express Australia Limited (ABN 92 108 952 085, AFSL No. 291313) (American Express) and ACE. This site does not take into account your objectives, financial situation or needs. It is important for you to read the Terms and Conditions available <a href="https://secure.cmax.americanexpress.com/Internet/International/japa/AU_en/shared/pdfs/Gold_Charge_Insurance_T&Cs_August08.pdf" target="_blank">here</a> and consider the appropriateness of that insurance in relation to your individual requirements.</li>
+            <li>Membership Rewards enrolment required. Subject to the Terms and Conditions of the Membership Rewards program available <a href="http://membershiprewards.com.au/termsandconditions" target="_blank">here</a>. Gift Card or voucher rewards are not redeemable or exchangeable for cash or credit and are valid for a period of 3 months from the date of issue, unless otherwise stated. Normal retailer Gift Card and voucher conditions apply. To transfer Membership Rewards points for points into an airline rewards or Frequent Guest partner program you must be a member of the partner program. Membership of the partner program is the Card member’s responsibility and is subject to the terms and conditions of the applicable program. A joining fee may apply.</li>
+          </ul>
+        ]]>
+      </terms-full>  
+     <hide-cards id-list="6"/>
+      <business/>
+      <personal value="true"/>
+      <charge value="true"/>
+      <credit />
+      <travel  value="true"/>
+      <rewards value="true"/>
+      <fly-partner-qantas />
+      <fly-partner-other value="true"/>
+      <accelerated-points />
+    </card>
+	<card id="6" name="American Express Card">
+     <card-image url="assets/img/ChargeCards_03.png" />
+      <top-features><![CDATA[
+        <ul><li>Enrol in Membership Rewards and earn 1 point for every $1 spent<sup>1</sup>. </li>
+        <li>Travel Inconvenience Cover<sup>2</sup>.</li>
+        </ul>
+        ]]>
+      </top-features>
+      <benefits><![CDATA[
+        <ul><li>- Complimentary Travel Inconvenience Cover<sup>1</sup>. </li>
+        <li>- Purchase and Refund protection which will cover you for eligible items purchased with your Card<sup>1</sup>.</li></ul>
+        </ul>
+        ]]>
+      </benefits>
+      <rewards-features><![CDATA[
+        <ul><li>- Choice to enrol in Membership Rewards <i>Ascent</i> or <i>Choices</i>.</li>
+        <li>- $1 spent = 1 Membership Rewards point<sup>2</sup>.</li></ul>
+        ]]>
+      </rewards-features>
+      <interest-rate><![CDATA[
+        NA
+      ]]>
+      </interest-rate>
+      <terms><![CDATA[
+				<ul>
+					<li>Subject to Terms and Conditions of the Membership Rewards program available <a href="http://membershiprewards.com.au/termsandconditions" target="_blank">here</a>.</li>
+					<li>American Express Card Insurances are underwritten by ACE Insurance Limited (ABN 23 001 642 020, AFSL No. 239687) (ACE) and are subject to the terms, conditions and exclusions contained in the American Express Card insurances policy of insurance between American Express Australia Limited (ABN 92 108 952 085, AFSL No. 291313) (American Express) and ACE. This site does not take into account your objectives, financial situation or needs. It is important for you to read the Terms and Conditions available <a href="https://secure.cmax.americanexpress.com/Internet/International/japa/AU_en/shared/pdfs/Green_Charge_Insurance_T&Cs_August08.pdf" target="_blank">here</a> and consider the appropriateness of that insurance in relation to your individual requirements.</li>
+				</ul>
+				]]>
+      </terms>
+  		<terms-full><![CDATA[
+           <ul>
+            <li>American Express Card Insurances are underwritten by ACE Insurance Limited (ABN 23 001 642 020, AFSL No. 239687) (ACE) and are subject to the terms, conditions and exclusions contained in the American Express Card insurances policy of insurance between American Express Australia Limited (ABN 92 108 952 085, AFSL No. 291313) (American Express) and ACE. This site does not take into account your objectives, financial situation or needs. It is important for you to read the Terms and Conditions available <a href="https://secure.cmax.americanexpress.com/Internet/International/japa/AU_en/shared/pdfs/Green_Charge_Insurance_T&Cs_August08.pdf" target="_blank">here</a> and consider the appropriateness of that insurance in relation to your individual requirements.</li>
+            <li>Membership Rewards enrolment required. Subject to the Terms and Conditions of the Membership Rewards program available <a href="http://membershiprewards.com.au/termsandconditions" target="_blank">here</a>. Gift Card or voucher rewards are not redeemable or exchangeable for cash or credit and are valid for a period of 3 months from the date of issue, unless otherwise stated. Normal retailer Gift Card and voucher conditions apply. To transfer Membership Rewards points for points into an airline rewards or Frequent Guest partner program you must be a member of the partner program. Membership of the partner program is the Cardmember’s responsibility and is subject to the terms and conditions of the applicable program. A joining fee may apply.</li>
+            
+            
+          </ul>
+       ]]>
+      </terms-full>  
+			<annual-fee value="$80"/>
+			<supp-fee value="$45"/>
+			<application-form url="https://www252.americanexpress.com/inga/au/pers/begin.do?perform=IntlEapp:AU:green_charge&amp;sourcecode=1L1266NC01"/>
+			<product-page url="http://www.americanexpress.com/australia/microsite/the-american-express-card.shtml"/>
+			<hide-cards id-list="17"/>
+			<business/>
+      <personal value="true"/>
+			<charge value="true"/>
+			<credit/>
+			<travel value="true"/>
+			<rewards value="true"/>
+			<fly-partner-qantas/>
+			<fly-partner-other value="true"/>
+			<accelerated-points/>
+    </card> 
+ </card-group>
+<card-group id="airlinepartnercards" name="Airline Partner Cards">
+    <group-description><![CDATA[
+      <p class="left">Airline Partner Cards are Cards that are co-branded with an airline partner. These Cards are linked directly to your airline loyalty membership and any points earned on the Card are directly transferred to your airline loyalty account. </p><p class="right">These Cards also offer unique benefits linked to the airline partner. </p>
+      ]]>
+    </group-description>
+	<card id="7" name="Qantas American Express Ultimate Card ">
+   <card-image url="assets/img/AirlinePartnerCards_01.png" />
+      <top-features><![CDATA[
+        <ul><li>Enjoy a complimentary Qantas domestic economy return flight<sup>1</sup> between selected Australian cities after your first Card spend on selected Qantas products and services<sup>2</sup> each year.</li>
+        <li>Earn 1.5 Qantas Frequent Flyer points<sup>3</sup> for every $1 spent on purchases with your Card. </li>
+        </ul>
+        ]]>
+      </top-features>
+      <benefits><![CDATA[
+        <ul><li>- Enjoy a complimentary Qantas domestic economy return flight<sup>1</sup> between selected capital cities (after your first Card spend every year in Australia on selected Qantas products and services)<sup>2</sup>. </li>
+        <li>- Enjoy 5,000 Qantas Frequent flyer points<sup>3</sup> after you first spend on purchases with your Card, plus an extra 2,500 points<sup>3</sup> after your first spend in Australia on selected Qantas products and services<sup>2</sup>. </li>
+		<li>- Complimentary Domestic and Overseas Travel Insurance<sup>4</sup></li>
+        </ul>
+        ]]>
+      </benefits>
+      <rewards-features><![CDATA[
+        <ul><li>- Earn 1.5 Qantas Frequent Flyer points<sup>3</sup> for every $1 spent on purchases with your Card, plus an extra point for every $1 spent in Australia on selected Qantas products and services<sup>2</sup>.</li></ul>
+        ]]>
+      </rewards-features>
+      <interest-rate><![CDATA[
+       20.74% p.a<sup>5</sup>
+      ]]>
+      </interest-rate>
+ 
+	  <terms><![CDATA[
+				<ul>
+					<li>The Qantas domestic return flight in economy class between selected Australian capital cities is available for booking for Ultimate Cardmembers. All flights are subject to availability and neither American Express nor Qantas guarantee that seats or tickets will be available on the dates or at the times you may wish to fly. Seat availability may be limited to certain dates and/or flights and it may be more difficult to book seats around public holidays, school holidays or special events. Some flights may not have any seats available for redemption. Route availability is subject to change without notice. All travel is subject to Qantas’ Conditions of Carriage and Qantas Fare Conditions. No Qantas Frequent Flyer points will be awarded for travel on these flights. Subject to Qantas American Express Ultimate Card Insurances and Domestic Return Flight Conditions available <a href="http://www.americanexpress.com/australia/campaigns/qantas/pdfs/pds_ultimatecard.pdf" target="_blank">here</a>.</li>
+					<li>Selected Qantas products and services are: (a) Qantas passenger flights (with a QF flight number) purchased on the Qantas merchant account i.e. with Qantas direct or some travel agents, or (b) purchases from Qantas Travel shops. Excludes Qantas Holidays, Qantas Freight, Jetstar and Qantas branded non-airfare products operated by third parties e.g. Qantas Box Office.</li>
+					<li>Subject to the Qantas American Express Card Points Terms and Conditions, and exclusions apply. Please see <a href="http://americanexpress.com/australia/campaigns/qantas/pdfs/points_termsandconditions.pdf" target="_blank">here</a> for details. You must be a member of the Qantas Frequent Flyer program to earn and redeem points. A joining fee may apply. Qantas Frequent Flyer membership and points are subject to the terms and conditions of the Qantas Frequent Flyer program.</li>
+				</ul>
+				]]>
+	  </terms>
+  		<terms-full><![CDATA[
+           <ul>
+            <li>The Qantas domestic return flight in economy class between selected Australian capital cities is available for booking for Ultimate Cardmembers. All flights are subject to availability and neither American Express nor Qantas guarantee that seats or tickets will be available on the dates or at the times you may wish to fly. Seat availability may be limited to certain dates and/or flights and it may be more difficult to book seats around public holidays, school holidays or special events. Some flights may not have any seats available for redemption. Route availability is subject to change without notice. All travel is subject to Qantas’ Conditions of Carriage and Qantas Fare Conditions. No Qantas Frequent Flyer points will be awarded for travel on these flights. Subject to Qantas American Express Ultimate Card Insurances and Domestic Return Flight Conditions <a href="http://www.americanexpress.com/australia/campaigns/qantas/pdfs/pds_ultimatecard.pdf" target="_blank">available here</a>.</li>
+            <li>Selected Qantas products and services are: (a) Qantas passenger flights (with a QF flight number) purchased on the Qantas merchant account i.e. with Qantas direct or some travel agents or (b) purchases from Qantas Travel shops. Excludes Qantas Holidays, Qantas Freight, Jetstar and Qantas branded non-airfare products operated by third parties e.g. Qantas Box Office.</li>
+            <li>You must be a member of the Qantas Frequent Flyer program to earn and redeem points. A joining fee may apply. Membership and points are subject to the Terms and Conditions of the Qantas Frequent Flyer program. Points are earned in accordance with and subject to the Qantas American Express Card Points Terms and Conditions, and exclusions apply. Please see <a href="http://americanexpress.com/australia/campaigns/qantas/pdfs/points_termsandconditions.pdf" target="_blank">here</a> for details. To be eligible for all or part of the 7,500 Qantas Frequent Flyer points you must be approved for the Card and make the required eligible Card spend(s). Points are awarded as follows:<br />
+            - 5,000 points will be awarded after the first Card spend.<br />
+            - An additional 2,500 points will be awarded after the first Card spend in Australia on selected Qantas products and services.<br />
+            Maximum number of points available under this offer is 7,500 points.  Subject to the Qantas American Express Card Points Terms and Conditions and exclusions apply. Click <a href="http://americanexpress.com/australia/campaigns/qantas/pdfs/points_termsandconditions.pdf" target="_blank">here</a>  for details.  Please allow 6 to 8 weeks after you have made an eligible spend for the points to be credited to your account.
+            </li>
+            <li>Qantas American Express Ultimate Card Insurances are underwritten by ACE Insurance Limited (ABN 23 001 642 020, AFSL No. 239687) (ACE) and are subject to the terms, conditions and exclusions contained in the Qantas American Express Ultimate Card Insurances policy of insurance between American Express International, Inc (ABN 15 000 618 208, AFSL No. 237996) (AEII) of 12 Shelley Street, Sydney NSW 2000 and ACE. The Insurance Terms and Conditions do not take into account your objectives, financial situation or needs. Insurance Terms and Conditions are subject to change. It is important for you to read the <a href="http://www.americanexpress.com/australia/campaigns/qantas/pdfs/pds_classiccard.pdf" target="_blank">Insurance Terms and Conditions</a> booklet and consider the appropriateness of that insurance in relation to your individual requirements. </li>
+            <li>All interest rates are quoted as an Annual Percentage Rate. All information is correct as at 16 December 2010 and is subject to change.</li>
+           </ul>
+       ]]>
+      </terms-full>  
+	<annual-fee value="$450"/>
+	<supp-fee value="$0"/>
+	<application-form url="https://www252.americanexpress.com/inga/au/pers/begin.do?perform=IntlEapp:AU:tbultimate&amp;sourcecode=1L12675C01"/>
+	<product-page url="http://www.americanexpress.com/australia/microsite/qantas-ultimate.shtml"/>
+	<hide-cards id-list="8,9"/>
+	<business/>
+	<personal value="true"/>
+	<charge/>
+	<credit value="true"/>
+	<travel value="true"/>
+	<rewards/>
+	<fly-partner-qantas value="true"/>
+	<fly-partner-other/>
+	<accelerated-points value="true"/>
+    </card>
+	<card id="8" name="Qantas American Express Premium Card">
+     <card-image url="assets/img/AirlinePartnerCards_02.png" />
+      <top-features><![CDATA[
+        <ul><li>Enjoy 2 Qantas Club invitations<sup>1</sup> per year after your first Card spend on selected Qantas products and services in Australia<sup>2</sup>. </li>
+        <li>Earn 1.25 Qantas Frequent Flyer points<sup>3</sup> for every $1 spent on purchases with your Card.</li>
+        </ul>
+        ]]>
+      </top-features>
+      <benefits><![CDATA[
+        <ul><li>- Enjoy 2 complimentary Qantas Club invitations<sup>1</sup> per year after your first Card spend every year in Australia on selected Qantas products and services<sup>2</sup>. </li>
+        <li>- Enjoy 5,000 extra Qantas Frequent Flyer points<sup>3</sup> after your first Card spend, plus an extra 2,500 points<sup>3</sup> after your first spend in Australia on selected Qantas products and services<sup>2</sup>. </li>    
+		<li>- Complimentary Domestic and International Travel Insurance<sup>4</sup>. </li></ul>
+        </ul>
+        ]]>
+      </benefits>
+      <rewards-features><![CDATA[
+        <ul><li>- Earn 1.25 Qantas Frequent Flyer points<sup>3</sup> for every $1 spent on purchases with your Card, plus an extra point for every $1 spent in Australia on selected Qantas products and services<sup>2</sup>. </li></ul>
+        ]]>
+      </rewards-features>
+      <interest-rate><![CDATA[
+        20.74% p.a.<sup>5</sup>
+      ]]>
+      </interest-rate>
+      <terms><![CDATA[
+				<ul>
+					<li>Invitations are for Premium Cardmembers and are valid for Qantas operated lounges only and are not valid for oneworld® alliance airline lounges, partner airline lounges or associated lounges. Each invitation is valid for a single visit before the date specified on the pass when flying with Qantas or Jetstar. Qantas Club rules apply. Subject to Insurances and Qantas Club Invitation Conditions available <a href="http://www.americanexpress.com/australia/campaigns/qantas/pdfs/pds_premiumcard.pdf" target="_blank">here</a>.</li>
+					<li>Selected Qantas products and services are: (a) Qantas passenger flights (with a QF flight number) purchased on the Qantas merchant account i.e. with Qantas direct or some travel agents, or (b) purchases from Qantas Travel shops. Excludes Qantas Holidays, Qantas Freight, Jetstar and Qantas branded non-airfare products operated by third parties e.g. Qantas Box Office.</li>
+					<li>Subject to the Qantas American Express Card Points Terms and Conditions, and exclusions apply. Please see <a href="http://americanexpress.com/australia/campaigns/qantas/pdfs/points_termsandconditions.pdf" target="_blank">here</a> for details. You must be a member of the Qantas Frequent Flyer program to earn and redeem points. A joining fee may apply. Qantas Frequent Flyer membership and points are subject to the terms and conditions of the Qantas Frequent Flyer program.</li>
+				</ul>
+				]]>
+      </terms>
+  		<terms-full><![CDATA[
+           <ul>
+            <li>Invitations are for Premium Cardmembers and are valid for Qantas operated lounges only and are not valid for oneworld® alliance airline lounges, partner airline lounges or associated lounges. Each invitation is valid for a single visit before the date specified on the pass when flying with Qantas or Jetstar. Qantas Club rules apply. Subject to Insurances and Qantas Club Invitation Conditions available <a href="http://www.americanexpress.com/australia/campaigns/qantas/pdfs/pds_premiumcard.pdf" target="_blank">here</a>.</li>
+            <li>Selected Qantas products and services are: (a) Qantas passenger flights (with a QF flight number) purchased on the Qantas merchant account i.e. with Qantas direct or some travel agents or (b) purchases from Qantas Travel shops. Excludes Qantas Holidays, Qantas Freight, Jetstar and Qantas branded non-airfare products operated by third parties e.g. Qantas Box Office.</li>
+            <li>You must be a member of the Qantas Frequent Flyer program to earn and redeem points. A joining fee may apply. Membership and points are subject to the Terms and Conditions of the Qantas Frequent Flyer program. Points are earned in accordance with and subject to the Qantas American Express Card Points Terms and Conditions, and exclusions apply. Please see <a href="http://americanexpress.com/australia/campaigns/qantas/pdfs/points_termsandconditions.pdf" target="_blank">here</a> for details. To be eligible for all or part of the 7,500 Qantas Frequent Flyer points you must be approved for the Card and make the required eligible Card spend(s). Points are awarded as follows:
+            <br />
+            - 5,000 points will be awarded after the first Card spend.
+            <br />
+            - An additional 2,500 points will be awarded after the first Card spend in Australia on selected Qantas products and services.
+            <br />
+            Maximum number of points available under this offer is 7,500 points.  Subject to the Qantas American Express Card Points Terms and Conditions and exclusions apply. Click <a href="http://americanexpress.com/australia/campaigns/qantas/pdfs/points_termsandconditions.pdf" target="_blank">here</a> for details.  Please allow 6 to 8 weeks after you have made an eligible spend for the points to be credited to your account.
+            </li>
+            <li>Qantas American Express Premium Card Insurances are underwritten by ACE Insurance Limited (ABN 23 001 642 020, AFSL No. 239687) (ACE) and are subject to the terms, conditions and exclusions contained in the Qantas American Express Premium Card insurances policy of insurance between American Express International, Inc (ABN 15 000 618 208, AFSL No. 237996) (AEII) of 12 Shelley Street, Sydney NSW 2000 and ACE. The Insurance Terms and Conditions do not take into account your objectives, financial situation or needs. Insurance Terms and Conditions are subject to change. It is important for you to read the <a href="http://www.americanexpress.com/australia/campaigns/qantas/pdfs/pds_classiccard.pdf" target="_blank">Insurance Terms and Conditions</a> booklet and consider the appropriateness of that insurance in relation to your individual requirements. </li>
+            <li>All interest rates are quoted as an Annual Percentage Rate. All information is correct as at 16 December 2010 and is subject to change.</li>
+          </ul>
+       ]]>
+      </terms-full>  
+      <annual-fee value="$249"/>
+	<supp-fee value="$0"/>
+	<application-form url="https://www252.americanexpress.com/inga/au/pers/begin.do?perform=IntlEapp:AU:tbpremium&amp;sourcecode=1L12684C01"/>
+	<product-page url="http://www.americanexpress.com/australia/microsite/qantas-premium-card.shtml"/>
+	<hide-cards id-list="9"/>
+	<business/>
+	<personal value="true"/>
+	<charge/>
+	<credit value="true"/>
+	<travel value="true"/>
+	<rewards/>
+	<fly-partner-qantas value="true"/>
+	<fly-partner-other/>
+	<accelerated-points value="true"/>
+    </card>
+	<card id="9" name="Qantas American Express Discovery Card">
+     <card-image url="assets/img/AirlinePartnerCards_03.png" />
+      <top-features><![CDATA[
+        <ul><li>Earn 1 Qantas Frequent Flyer point<sup>1</sup> for every $1 spent on purchases with the Card.</li>
+        <li>$0 annual Card fee.</li>
+        </ul>
+        ]]>
+      </top-features>
+      <benefits><![CDATA[
+        <ul>
+        <li>- $0 annual Card fee.</li>
+        <li>- Earn 5,000 Qantas Frequent Flyer points<sup>1</sup> when you spend $300 on purchases with your Card within the first 3 months and another 2,500 points after your first Card spend in Australia on selected Qantas products and services<sup>2</sup>.</li></ul>
+        </ul>
+        ]]>
+      </benefits>
+      <rewards-features><![CDATA[
+        <ul><li>- Earn 1 Qantas Frequent Flyer point<sup>1</sup> for every $1 spent, plus an extra point for every $1 spent on selected domestic Qantas services<sup>3</sup>.</li></ul>
+        ]]>
+      </rewards-features>
+      <interest-rate><![CDATA[
+       20.74% p.a.<sup>3</sup>
+      ]]>
+      </interest-rate>
+      <terms><![CDATA[
+				<ul>
+					<li>Subject to the Qantas American Express Card Points Terms and Conditions, and exclusions apply. Please see <a href="http://www.americanexpress.com/australia/campaigns/qantas/pdfs/points_termsandconditions.pdf" target="_blank">here</a>. You must be a member of the Qantas Frequent Flyer program to earn and redeem points. A joining fee may apply. Qantas Frequent Flyer membership and points are subject to the terms and conditions of the Qantas Frequent Flyer program.</li>
+				</ul>
+				]]>
+      </terms>
+  		<terms-full><![CDATA[
+          <ul>
+            <li>You must be a member of the Qantas Frequent Flyer program to earn and redeem points. A joining fee may apply. Membership and points are subject to the Terms and Conditions of the Qantas Frequent Flyer program. Points are earned in accordance with and subject to the Qantas American Express Card Points Terms and Conditions, and exclusions apply. Please see <a href="http://americanexpress.com/australia/campaigns/qantas/pdfs/points_termsandconditions.pdf" target="_blank">here</a> for details. To be eligible for all or part of the 7,500 Qantas Frequent Flyer points you must be approved for the Card and make the required eligible Card spend(s).  Points are awarded as follows:
+            <br />
+            - 5,000 points will be awarded after you spend $300 on your Card within the first 3 months of becoming a Cardmember.
+            <br />
+            - An additional 2,500 points will be awarded after the first Card spend in Australia on selected Qantas products and services.
+            <br />
+            Maximum number of points available under this offer is 7,500 points. Please allow 6 to 8 weeks after you have made an eligible spend for the points to be credited to your account.
+            </li>
+            <li>Selected Qantas products and services are: (a) Qantas passenger flights (with a QF flight number) purchased on the Qantas merchant account i.e. with Qantas direct or some travel agents or (b) purchases from Qantas Travel shops. Excludes Qantas Holidays, Qantas Freight, Jetstar and Qantas branded non-airfare products operated by third parties e.g. Qantas Box Office.</li>
+            <li>All interest rates are quoted as an Annual Percentage Rate. All information is correct as at 16 December 2010 and is subject to change.</li>
+          </ul>
+        ]]>
+      </terms-full>  
+			<annual-fee value="$0"/>
+			<supp-fee value="$0"/>
+			<application-form url="https://www252.americanexpress.com/inga/au/pers/begin.do?perform=IntlEapp:AU:thunderbird&amp;page=PR&amp;XMRSOURCECODE=Q05IA250&amp;sourcecode=1L12693C01"/>
+			<product-page url="http://www.americanexpress.com/australia/microsite/qantas-discovery-card.shtml"/>
+			<hide-cards/>
+			<business/>
+      <personal value="true"/>
+      <charge/>
+      <credit value="true"/>
+      <travel value="true"/>
+      <rewards/>
+      <fly-partner-qantas value="true"/>
+      <fly-partner-other/>
+      <accelerated-points value="true"/>
+  </card> 
+ </card-group>
+<card-group id="businesschargecards" name="Business Charge Cards">
+    <group-description><![CDATA[
+      <p class="left">Business Charge Cards have flexible spend limits designed to give you more flexibility with managing your business cash flow and monthly expenses. These Cards are ideal for business expenses and require you to pay any due amounts in full.</p><p class="right">Your monthly statements can be directly downloaded into accounting softwares such as Quicken and MYOB. The annual Card fee is also tax deductable if the Card is used solely for business purposes.</p>
+      ]]>
+    </group-description>
+	<card id="11" name="American Express Platinum Business Card">
+   <card-image url="assets/img/BusinessChargeCards_01.png" />
+      <top-features><![CDATA[
+        <ul><li> Access to a team of dedicated experts for your business requests 24/7.</li>
+        <li>Platinum Business Concierge and the Business Card service<sup>1</sup>.</li>
+        <li>Earn 1.5 Membership Rewards points for every dollar spent, transferable to 8 airline partner programs including Qantas<sup>2</sup>.</li>
+        </ul>
+        ]]>
+      </top-features>
+      <benefits><![CDATA[
+        <ul><li>- Access to Platinum Business Concierge and the Business Card service team 24/7<sup>1</sup>.</li>
+        <li>- Platinum International and Domestic Travel Insurance<sup>2</sup>.</li>
+		<li>- Download Card statements into Quicken, MYOB or Excel - saving you time preparing your BAS<sup>3</sup>.</li>
+		<li>- Flexible spend limits<sup>4</sup> designed to support business growth.</li>
+		</ul>
+        ]]>
+      </benefits>
+      <rewards-features><![CDATA[
+ 		<ul>
+ 		<li>- Complimentary enrolment in Membership Rewards <i>Ascent Premium</i><sup>5</sup>. </li>
+		<li>- Redeem points with 8 airlines including Qantas.</li>
+		<li>- $1 spent = 1.5 Membership Rewards points<sup>6</sup>. </li>
+        </ul>
+        ]]>
+      </rewards-features>
+      <interest-rate><![CDATA[
+     NA
+      ]]>
+      </interest-rate>
+ 
+	  <terms><![CDATA[
+				<ul>
+					<li>There is typically no cost for Platinum Concierge, although you are responsible for any purchase and/or shipping charges you authorise. Fees may apply for meetings and event planning.</li>
+					<li>Subject to Terms and Conditions of the Membership Rewards program. There may be taxation implications associated with your participation in the Membership Rewards program. You are advised to check with your accountant or tax adviser for further information.</li>
+				</ul>
+				]]>
+	  </terms>
+  		<terms-full><![CDATA[
+            <ul>
+            <li>There is typically no cost for Platinum Concierge, although you are responsible for any purchase and/or shipping charges you authorise. Fees may apply for meetings and event planning.</li>
+            <li>American Express Platinum Business Card Insurances are underwritten by ACE Insurance Limited (ABN 23 001 642 020, AFSL No. 239687) (ACE) and are subject to the terms and conditions and exclusions contained in the American Express Platinum Business Card Insurances policy of insurance between American Express Australia Limited (ABN 92 108 952 085, AFSL No. 291313 (American Express) and ACE. This site does not take into account your objectives, financial situation or needs. It is important for you to read the Terms and Conditions available <a href="http://americanexpress.com.au/businesst&cs" target="_blank">here</a> and consider the appropriateness of that insurance in relation to your individual requirements.</li>
+            <li>Transactions with GST itemisation on American Express Commercial Card statements can act as proof of purchase for taxation purposes, and may substitute for a tax invoice when claiming input tax credits. However, original tax invoice retention is required where the merchant is classified as a Mixed Supply merchant</li>
+            <li>Flexible spend limits does not mean unlimited spending. Your purchases are approved based on a variety of factors, including current spending patterns, your payment history, credit record and financial resources known to us.</li>
+			<li>Membership Rewards enrolment is required. Subject to the Terms and Conditions of the Membership Rewards program available <a href="http://membershiprewards.com.au/termsandconditions" target="_blank">here</a>. An annual fee may apply. There may be taxation implications associated with your participation in the Membership Rewards program. You are advised to check with your accountant or tax supervisor for further information.</li>
+            <li>You'll earn 1.5 points for every $1 spent up to $150,000 each year and 1 point for every $1 spent thereafter, reset annually.</li>
+           </ul>
+       ]]>
+      </terms-full>  
+			<annual-fee value="$1,200 (Tax deductible if used solely for business)"/>
+			<supp-fee value="$0"/>
+			<application-form url="https://www252.americanexpress.com/inga/au/sbs/begin.do?perform=IntlEapp:AU:sbsplatinum&amp;sourcecode=1L12702C01"/>
+			<product-page url="http://www.americanexpress.com/australia/microsite/the-american-express-platinum-business-card.shtml"/>
+			<hide-cards id-list="12,13,14"/>
+			<business value="true"/>
+			<personal/>
+			<charge value="true"/>
+			<credit/>
+      <travel value="true"/>
+			<rewards value="true"/>
+			<fly-partner-qantas value="true"/>
+			<fly-partner-other value="true"/>
+			<accelerated-points value="true"/>
+    </card>
+	<card id="12" name="American Express Gold Business Card">
+     <card-image url="assets/img/BusinessChargeCards_02.png" />
+      <top-features><![CDATA[
+        <ul><li>A choice to enrol in one of two Membership Rewards programs providing you with a bounty of glorious getaways, gorgeous gifts and business benefits for which you can redeem your points<sup>1</sup>.</li>
+        <li>Flexible spend limits<sup>2</sup> designed to support business growth.</li>
+        </ul>
+        ]]>
+      </top-features>
+      <benefits><![CDATA[
+        <ul><li>- International and Domestic Travel Insurance<sup>1</sup>.</li>
+        <li>- Up to 51 days interest free, providing improved cash flow<sup>2</sup>.</li>    
+		<li>- Download statements into Quicken, MYOB or Excel - saving you time preparing your BAS<sup>3</sup>.</li>
+		<li>- Flexible spend limits designed to support business growth<sup>4</sup>.</li></ul>
+        </ul>
+        ]]>
+      </benefits>
+      <rewards-features><![CDATA[
+        <ul><li>- Choice to enrol in Membership Rewards <i>Ascent</i> or <i>Choices</i>. </li>
+        <li>- $1 spent = 1 Membership Rewards point<sup>5</sup>. </li></ul>
+        ]]>
+      </rewards-features>
+      <interest-rate><![CDATA[
+       NA
+      ]]>
+      </interest-rate>
+      <terms><![CDATA[
+				<ul>
+					<li>Membership Rewards enrolment is required. Subject to the Terms and Conditions of the Membership Rewards program available <a href="http://www.membershiprewards.com.au/termsandconditions" target="_blank">here</a>. An annual fee applies. There may be taxation implications associated with your participation in the Membership Rewards program. You are advised to check with your accountant or tax supervisor for further information. Terms and Conditions available <a href="http://www.americanexpress.com.au/businesst&cs" target="_blank">here</a> . Consider the appropriateness of that insurance in relation to your individual requirements.</li>
+					<li>Flexible spend limits does not mean unlimited spending. Your purchases are approved based on a variety of factors, including current spending patterns, your payment history, credit record and financial resources known to us.</li>
+				</ul>
+				]]>
+      </terms>
+  		<terms-full><![CDATA[
+           <ul>
+            <li>American Express Gold Business Card Insurances are underwritten by ACE Insurance Limited (ABN 23 001 642 020, AFSL No. 239687) (ACE) and are subject to the terms and conditions and exclusions contained in the American Express Gold Business Card Insurances policy of insurance between American Express Australia Limited (ABN 92 108 952 085, AFSL No. 291313 (American Express) and ACE. This site does not take into account your objectives, financial situation or needs. It is important for you to read the Terms and Conditions available <a href="http://americanexpress.com.au/businesst&cs" target="_blank">here</a> and consider the appropriateness of that insurance in relation to your individual requirements.</li>
+            <li>Actual credit-free period will vary based on the date of charge and the billing cycle cut-off date.</li>
+            <li>Transactions with GST itemisation on American Express Commercial Card statements can act as proof of purchase for taxation purposes and may substitute for a tax invoice when claiming input tax credits. However, original tax invoice retention is required where the merchant is classified as a Mixed Supply merchant.</li>
+            <li>Flexible spend limits does not mean unlimited spending. Your purchases are approved based on a variety of factors, including current spending patterns, your payment history, credit record and financial resources known to us.</li>
+            <li>Membership Rewards enrolment is required. Subject to the Terms and Conditions of the Membership Rewards program available <a href="http://membershiprewards.com.au/termsandconditions" target="_blank">here</a>. An annual fee applies. There may be taxation implications associated with your participation in the Membership Rewards program. You are advised to check with your accountant or tax supervisor for further information.</li>
+          </ul>
+       ]]>
+      </terms-full>  
+	<annual-fee value="$169 (Tax deductible if used solely for business)"/>
+			<supp-fee value="$119"/>
+			<application-form url="https://www252.americanexpress.com/inga/au/sbs/begin.do?perform=IntlEapp:AU:sbs_gold&amp;sourcecode=1L1271MC01"/>
+			<product-page url="http://www.americanexpress.com/australia/microsite/the-american-express-gold-business-card.shtml"/>
+			<hide-cards id-list="13"/>
+      <business value="true"/>
+      <personal/>
+      <charge value="true"/>
+      <credit/>
+      <travel value="true"/>
+      <rewards value="true"/>
+      <fly-partner-qantas/>
+      <fly-partner-other value="true"/>
+      <accelerated-points/>
+  </card>
+	<card id="13" name="American Express Business Card">
+     <card-image url="assets/img/BusinessChargeCards_03.png" />
+      <top-features><![CDATA[
+        <ul><li>Up to 51 days interest free, providing improved cash flow<sup>1</sup>. </li>
+        <li>Detailed monthly statements including GST itemisation<sup>2</sup> downloadable into financial softwares - MYOB, Quicken, Money or Excel. </li>
+        </ul>
+        ]]>
+      </top-features>
+      <benefits><![CDATA[
+        <ul><li>- Up to 51 days interest free, providing improved cash flow<sup>1</sup>. </li>
+        <li>- Download statements into Quicken, MYOB or Excel - saving you time preparing your BAS<sup>2</sup>. </li>
+        <li>- Domestic Travel Insurance<sup>3</sup>.</li></ul>
+        </ul>
+        ]]>
+      </benefits>
+      <rewards-features><![CDATA[
+        <ul><li>- Choice to enrol in Membership Rewards <i>Ascent</i> or <i>Choices</i>. </li>
+        <li>- $1 spent = 1 Membership Rewards point<sup>4</sup>. </li>
+        </ul>
+        ]]>
+      </rewards-features>
+      <interest-rate><![CDATA[
+     NA
+      ]]>
+      </interest-rate>
+      <terms><![CDATA[
+				<ul>
+					<li>Depending on when you make a purchase, when your statement is issued and whether or not you are carrying forward a balance on your account from your previous statement period.</li>
+					<li>Transactions with GST itemisation on American Express Commercial Card statements can act as proof of purchase for taxation purposes, and may substitute for a tax invoice when claiming input tax credits. However, original tax invoice retention is required where the merchant is classified as a Mixed Supply merchant.</li>
+				</ul>
+				]]>
+      </terms>
+  		<terms-full><![CDATA[
+          <ul>
+            <li>Actual credit-free period will vary based on the date of charge and the billing cycle cut-off date.</li>
+            <li>Transactions with GST itemisation on American Express Commercial Card statements can act as proof of purchase for taxation purposes and may substitute for a tax invoice when claiming input tax credits. However, original tax invoice retention is required where the merchant is classified as a Mixed Supply merchant.</li>
+            <li>American Express Business Card Insurances are underwritten by ACE Insurance Limited (ABN 23 001 642 020, AFSL No. 239687) (ACE) and are subject to the terms, conditions and exclusions contained in the American Express Business Card insurances policy of insurance between American Express Australia Limited (ABN 92 108 952 085, AFSL No. 291313) (American Express) and ACE. This site does not take into account your objectives, financial situation or needs. It is important for you to read the Terms and Conditions available <a href="http://americanexpress.com.au/businesst&cs" target="_blank">here</a> and consider the appropriateness of that insurance in relation to your individual requirements.</li>
+            <li>Membership Rewards enrolment is required. Subject to the Terms and Conditions of the Membership Rewards program available <a href="http://membershiprewards.com.au/termsandconditions" target="_blank">here</a>. An annual fee applies. There may be taxation implications associated with your participation in the Membership Rewards program. You are advised to check with your accountant or tax supervisor for further information.</li>
+          </ul>
+        ]]>
+      </terms-full>  
+			<annual-fee value="$109 (Tax deductible if used solely for business)"/>
+			<supp-fee value="$79"/>
+			<application-form url="https://www252.americanexpress.com/inga/au/sbs/begin.do?perform=IntlEapp:AU:sbs_green&amp;sourcecode=1L1272LC01"/>
+			<product-page url="http://www.americanexpress.com/australia/microsite/the-american-express-business-card.shtml"/>
+			<hide-cards/>
+      <business value="true"/>
+      <personal/>
+      <charge value="true"/>
+      <credit/>
+      <travel value="true"/>
+      <rewards value="true"/>
+      <fly-partner-qantas/>
+      <fly-partner-other value="true"/>
+      <accelerated-points/>
+  </card> 
+	<card id="14" name="Qantas American Express Business Card ">
+     <card-image url="assets/img/BusinessChargeCards_04.png" />
+      <top-features><![CDATA[
+        <ul><li>Earn 2 Qantas Frequent Flyer points for every $1 spent on Qantas products and services in Australia and 1 point for every $1 spent elsewhere<sup>1</sup>.</li>
+        <li>Domestic and Overseas Travel Insurance<sup>2</sup>.</li>
+        </ul>
+        ]]>
+      </top-features>
+      <benefits><![CDATA[
+        <ul><li>- Earn Qantas Frequent Flyer points on all your business expenses<sup>1</sup>. </li>
+        <li>- Complimentary Domestic and Overseas Travel Insurance<sup>2</sup>.</li></ul>
+        </ul>
+        ]]>
+      </benefits>
+      <rewards-features><![CDATA[
+        <ul><li>- Earn 1 Qantas Frequent Flyer point for every $1 spent, plus an extra point for every $1 spent on selected Qantas products and services in Australia<sup>3</sup>. </li></ul>
+        ]]>
+      </rewards-features>
+      <interest-rate><![CDATA[
+     NA
+      ]]>
+      </interest-rate>
+      <terms><![CDATA[
+				<ul>
+					<li>Selected Qantas products and services are: (a) Qantas passenger flights with a QF flight number and Qantas Club and Qantas Frequent Flyer memberships purchased on the merchant account i.e. directly with Qantas or some travel agents, and (b) purchases from Qantas Travel shops. Excludes Qantas Freight, Qantas Holidays, Jetset Group, Jetstar, and Qantas branded non-airfare products operated by third parties, e.g. Qantas Box Office. Subject to Points Terms and Conditions.</li>
+					<li>Qantas American Express Business Card Insurances are underwritten by ACE Insurance Limited (ABN 23 001 642 020, AFSL No. 239687) (ACE) and are subject to the terms and conditions and exclusions contained in the Qantas American Express Business Credit Card Insurances policy of insurance between American Express Australia Limited (ABN 92 108 952 085, AFSL No. 291313 (American Express) and ACE. This landing page does not take into account your objectives, financial situation or needs. It is important for you to read the Terms and Conditions available <a href="http://www.americanexpress.com.au/businesst&cs" target="_blank">here</a> and consider the appropriateness of that insurance in relation to your individual requirements.</li>
+				</ul>
+				]]>
+      </terms>
+  		<terms-full><![CDATA[
+           <ul>
+            <li>You must be a member of the Qantas Frequent Flyer program to earn and redeem points. A joining fee applies. Points accrue in accordance with and subject to the Qantas American Express Business Card Points Terms and Conditions. Exclusions and limitations apply. Membership and points are subject to the Terms and Conditions of the Qantas Frequent Flyer program. Membership is only open to individuals. Qantas Frequent Flyer points will be transferred automatically each month to your Qantas Frequent Flyer account. There may be tax implications associated with your participation in the Qantas Frequent Flyer program. You are advised to check with your accountant or tax adviser for further information.</li>
+            <li>Qantas American Express Business Card Insurances are underwritten by ACE Insurance Limited (ABN 23 001 642 020, AFSL No. 239687) (ACE) and are subject to the terms and conditions and exclusions contained in the Qantas American Express Business Credit Card Insurances policy of insurance between American Express Australia Limited (ABN 92 108 952 085, AFSL No. 291313 (American Express) and ACE. This website does not take into account your objectives, financial situation or needs. It is important for you to read the Terms and Conditions available <a href="http://www.americanexpress.com.au/businesst&cs" target="_blank">here</a> and consider the appropriateness of that insurance in relation to your individual requirements.</li>
+            <li>Selected Qantas products and services are: (a) Qantas passenger flights with a QF flight number purchased on the Qantas merchant account i.e. directly with Qantas or some travel agents, (b) purchases from Qantas Travel shops. Excludes: Qantas Freight, Qantas Holidays, Jetstar and Qantas branded non-airfare products operated by third parties, e.g. Qantas Box Office. Subject to Points Terms and Conditions.</li>
+          </ul>
+       ]]>
+      </terms-full>  
+			<annual-fee value="$299"/>
+			<supp-fee value="$119"/>
+			<application-form url="https://www252.americanexpress.com/inga/au/sbs/begin.do?perform=IntlEapp:AU:qantas_sbs&amp;sourcecode="/>
+			<product-page url="http://www.americanexpress.com/australia/microsite/qantas-business-card.shtml"/>
+			<hide-cards/>
+      <business value="true"/>
+      <personal/>
+      <charge value="true"/>
+      <credit/>
+      <travel value="true"/>
+      <rewards/>
+      <fly-partner-qantas value="true"/>
+      <fly-partner-other/>
+      <accelerated-points value="true"/>
+  </card> 
+ </card-group>
+ <card-group id="Business Credit Cards" name="Business Credit Cards">
+    <group-description><![CDATA[
+      <p class="left">Business Credit Cards offer the flexibility of paying your Card balances over time. Your monthly statements can be directly downloaded into accounting softwares such as Quicken and MYOB. </p><p class="right">The annual Card fee is also tax deductible if the Card is used solely for business purposes. </p>
+      ]]>
+    </group-description>
+	<card id="15" name="Qantas American Express Business Credit Card ">
+   <card-image url="assets/img/BusinessCreditCards_01.png" />
+      <top-features><![CDATA[
+        <ul><li>Up to 55 days interest free, providing improved cash flow<sup>1</sup>.</li>
+        <li>Earn 2 Qantas Frequent Flyer points for every $1 spent on Qantas products and services in Australia and 1 point for every $1 spent elsewhere<sup>2</sup>.</li>
+         </ul>
+        ]]>
+      </top-features>
+      <benefits><![CDATA[
+        <ul><li>- Enjoy 55 interest-free days<sup>1</sup> and up to a $50,000 limit improving cash flow.</li>
+        <li>- Travel Inconvenience and Transport Accident cover when you use your Card<sup>2</sup>. </li>
+        </ul>
+        ]]>
+      </benefits>
+      <rewards-features><![CDATA[
+         <ul><li>- Earn 1 Qantas Frequent Flyer point<sup>3</sup> for every $1 spent, plus an extra point for every $1 spent on Qantas products and services in Australia<sup>4</sup>. </li>
+         </ul>
+        ]]>
+      </rewards-features>
+      <interest-rate><![CDATA[
+       20.49% p.a
+      ]]>
+      </interest-rate>
+ 
+	  <terms><![CDATA[
+				<ul>
+					<li>Depending upon when you make a purchase, when your statement is issued and whether or not you are carrying forward a balance on your account from your previous statement period. Transactions with GST itemisation on American Express Commercial Card statements can act as proof of purchase for taxation purposes, and may substitute for a tax invoice when claiming input tax credits. However, original tax invoice retention is required where the merchant is classified as a Mixed Supply merchant.</li>
+					<li>You must be a member of the Qantas Frequent Flyer program to earn and redeem points. A joining fee applies. Points accrue in accordance with and subject to the Qantas American Express Business Credit Card Points Terms and Conditions. Exclusions and limitations apply. Membership and points are subject to the Terms and Conditions of the Qantas Frequent Flyer program. Membership is only open to individuals. Qantas Frequent Flyer points will be transferred automatically each month to your Qantas Frequent Flyer account. There may be tax implications associated with your participation in the Qantas Frequent Flyer program. You are advised to check with your accountant or tax adviser for further information.</li>
+				</ul>
+				]]>
+	  </terms>
+  		<terms-full><![CDATA[
+           <ul>
+            <li>Depending upon when you make a purchase, when your statement is issued and whether or not you are carrying forward a balance on your account from your previous statement period.</li>
+            <li>Qantas American Express Business Credit Card Insurances are underwritten by ACE Insurance Limited (ABN 23 001 642 020, AFSL No. 239687) (ACE) and are subject to the terms and conditions and exclusions contained in the Qantas American Express Business Credit Card Insurances policy of insurance between American Express Australia Limited (ABN 92 108 952 085, AFSL No. 291313 (American Express) and ACE. This site does not take into account your objectives, financial situation or needs. It is important for you to read the Terms and Conditions available <a href="http://www.americanexpress.com.au/businesst&cs" target="_blank">here</a> and consider the appropriateness of that insurance in relation to your individual requirements.</li>
+            <li>You must be a member of the Qantas Frequent Flyer program to earn and redeem points. A joining fee applies. Points accrue in accordance with and subject to the Qantas American Express Business Credit Card Points Terms and Conditions. Exclusions and limitations apply. Membership and points are subject to the Terms and Conditions of the Qantas Frequent Flyer program. Membership is only open to individuals. Qantas Frequent Flyer points will be transferred automatically each month to your Qantas Frequent Flyer account. There may be tax implications associated with your participation in the Qantas Frequent Flyer program. You are advised to check with your accountant or tax adviser for further information.</li>
+            <li>Selected Qantas products and services are: (a) Qantas passenger flights with a QF flight number and Qantas Club and Qantas Frequent Flyer memberships, purchased on the merchant account i.e. directly with Qantas or some travel agents, and (b) purchases from Qantas Travel shops. Excludes Qantas Freight, Qantas Holidays, Jetset Group, Jetstar and Qantas branded non-airfare products operated by third parties e.g. Qantas Box Office. Subject to the Qantas American Express Business Credit Card Points <a href="http://americanexpress.com/australia/campaigns/qantas/pdfs/points_termsandconditions.pdf" target="_blank">Terms and Conditions</a>. </li>
+            <li>All Interest Rates are quoted as an Annual Percentage Rate. All information is correct as at 16 December 2010 and is subject to change.</li>
+            </ul>
+       ]]>
+      </terms-full>  
+			<annual-fee value="$160"/>
+			<supp-fee value="$0"/>
+			<application-form url="http://www.americanexpress.com/australia/pdfs/sbs_qantas_grcc_application_form_v2.pdf"/>
+			<product-page url="http://www.americanexpress.com/australia/microsite/qantas-business-credit-card.shtml"/>
+			<hide-cards/>
+      <business value="true"/>
+      <personal/>
+      <charge/>
+      <credit value="true"/>
+      <travel value="true"/>
+      <rewards/>
+      <fly-partner-qantas value="true"/>
+      <fly-partner-other/>
+      <accelerated-points value="true"/>
+  </card>
+	<card id="16" name="American Express Business Accelerator Card">
+     <card-image url="assets/img/BusinessCreditCards_02.png" />
+      <top-features><![CDATA[
+        <ul><li>Complimentary enrolment in Membership Rewards <i>Choices</i> giving access to shopping, dining and entertainment rewards.</li>
+        <li>Earn 2 Membership Rewards points for every $1 spent<sup>1</sup>.</li>
+        </ul>
+        ]]>
+      </top-features>
+      <benefits><![CDATA[
+        <ul><li>- Monthly statements including GST breakdown that meets ATO reporting requirements<sup>1</sup> . </li></ul>
+        </ul>
+        ]]>
+      </benefits>
+      <rewards-features><![CDATA[
+        <ul><li>- Complimentary enrolment in Membership Rewards <i>Choices</i>. </li>
+        <li>- $1 spent = 2 Membership Rewards points up to $150,000 (reset thereafter)<sup>2</sup>.</li></ul>
+        ]]>
+      </rewards-features>
+      <interest-rate><![CDATA[
+        20.49% p.a.
+      ]]>
+      </interest-rate>
+      <terms><![CDATA[
+				<ul>
+					<li>Subject to the Terms and Conditions of the Membership Rewards program available <a href="http://www.membershiprewards.com.au/termsandconditions" target="_blank">here</a>. There may be taxation implications associated with your participation in the Membership Rewards program. You are advised to check with your accountant or tax advisor for further information.</li>
+				</ul>
+				]]>
+      </terms>
+  		<terms-full><![CDATA[
+          <ul>
+            <li>Transactions with GST itemisation on American Express Commercial Card statements can act as proof of purchase for taxation purposes and may substitute for a tax invoice when claiming input tax credits. However, original tax invoice retention is required where the merchant is classified as a Mixed Supply merchant.</li>
+            <li>Subject to the Terms and Conditions of the Membership Rewards program available <a href="http://membershiprewards.com.au/termsandconditions" target="_blank">here</a>. An annual fee may apply. There may be taxation implications associated with your participation in the Membership Rewards program. You are advised to check with your accountant or tax supervisor for further information.</li>
+            <li>All Interest Rates are quoted as an Annual Percentage Rate. All information is correct as at 16 December 2010 and is subject to change.</li>
+          </ul>
+        ]]>
+      </terms-full>  
+			<annual-fee value="$160"/>
+			<supp-fee value="$0"/>
+			<application-form url="https://www252.americanexpress.com/inga/au/pers/begin.do?perform=IntlEapp:AU:grccgold_credit&amp;sourcecode=1L12757C01"/>
+			<product-page url="http://www.americanexpress.com/australia/microsite/the-american-express-business-accelerator-credit-card.shtml"/>
+			<hide-cards/>
+      <business value="true"/>
+      <personal/>
+      <charge/>
+      <credit value="true"/>
+      <travel/>
+      <rewards value="true"/>
+      <fly-partner-qantas/>
+      <fly-partner-other value="true"/>
+      <accelerated-points value="true"/>
+  </card>
+	
+ </card-group>
+  <member-rewards>
+		<terms><![CDATA[
+			<ul>
+				<li>Gift Card or voucher rewards are not redeemable or exchangeable for cash or credit and are valid for a period of 3 months from the date of issue, unless otherwise stated. Normal retailer Gift Card and voucher conditions apply. </li>
+				<li>Points may be redeemed by the Basic Cardmember for a credit on the Primary Card Account. American Express may decline Points for Credit request where the Card Account or Cardmember’s other accounts with American Express are not in good standing. The redemption of Points for Credit will be administered solely by American Express within 3 business days and cannot be reversed. Redeeming Points for Credit is not available for redemption by Corporate Card accounts and is not redeemable for cash via credit balance refund.</li>
+				<li>Subject to the Terms and Conditions of the Membership Rewards program available <a href="http://www.membershiprewards.com.au/termsandconditions" target="_blank">here</a>. Travelscene Pty. Ltd. Licence Nos. NSW 2TA003629, VIC 32089, SA TTA163633, QLD 1431, WA 9TA974. Harvey World Travel Franchises Pty. Ltd. Licence Nos: A.C.T: TC373, NSW/WA: 2TA5129, NT: NT001, QLD: TAG 1718, SA: TTA 165258, TAS: TAS 069, VIC: 32392. Each Travelscene American Express and some Harvey World Travel shops are independently owned and have their own travel agent's licence. Travel Agent service charges may apply. </li>
+        <li>Subject to the Terms and Conditions of the Membership Rewards program. Partner Terms and Conditions apply. Available to Australian enrolees who reside in Australia only. A minimum of 7,500 points must be redeemed at any one time. Copyright Webjet Marketing Pty. Ltd. ACN 063 430 848, ABN 8406 3430 848. Part of the Webjet Limited. Travel Agent Licence No. 32282.</li>
+        <li>Only available to Cardmembers enrolled in Membership Rewards <i>Ascent Premium, Ascent, Choices</i> or <i>Blue Sky</i>. Membership Rewards enrolment required (an annual fee may apply). Subject to the Terms and Conditions of the Membership Rewards program.  American Express International, Inc. (ABN 15 000 618 208). Incorporated with limited liability in Delaware, USA. Licensed Travel Agent, 12 Shelley Street, Sydney NSW. Licence No. NSW 2TA000113, VIC 30233, QLD TAG132, WA 9TA81, SA-TTA30, TAS-TAS064, ACT 212/D. All travel arrangements must be prepaid prior to departure to be eligible for Membership Rewards redemptions. Membership Rewards redemptions cannot be used for Cruise Privileges bookings. Travel Services are arranged by American Express International Inc. (ABN 15 000 618 208).</li>
+        <li>To transfer Membership Rewards points into an airline rewards or frequent guest partner program you must be enrolled in Membership Rewards <i>Ascent</i> or <i>Ascent Premium</i> and be a member of the partner program. Membership of the partner program is the Cardmembers responsibility and is subject to the Terms and Conditions of the applicable program. A joining fee may apply.</li>
+        <li>To transfer Membership Rewards points into an airline rewards or frequent guest partner program you must be a member of the partner program. Membership of the partner program is the Cardmembers responsibility and is subject to the Terms and Conditions of the applicable program. A joining fee may apply.</li>
+        <li>To transfer Membership Rewards points to Qantas Frequent Flyer program you must be enrolled in Membership Rewards <i>Ascent Premium</i> and a member of the Qantas Frequent Flyer program to earn and redeem points. A joining fee applies. Membership and points are subject to the Terms and Conditions of the Qantas Frequent Flyer program. </li>
+			</ul>
+			]]>
+		</terms>
+  </member-rewards>
+ </applicationconfiguration>

@@ -1,0 +1,30 @@
+/* These are styles for IE6-8 CSS3 PIE */
+
+.card_row {
+	behavior: url(assets/css/PIE.htc);
+}
+.card_row .cards .card .selected_border {
+	behavior: url(assets/css/PIE.htc);
+}
+.card_row .tooltip_btn_bg {
+	behavior: url(assets/css/PIE.htc);
+}
+.card_row .tooltip_btn {
+	behavior: url(assets/css/PIE.htc);
+}
+.card_row .cards .card .selected_border {
+	behavior: none;
+}
+.card_row .card .card_tip,#popUp .card_tip {
+	behavior: url(assets/css/PIE.htc);
+}
+.card_row .card .card_tip h2,#popUp .card_tip h2 {
+	behavior: url(assets/css/PIE.htc);
+}
+.card_row .tooltip,#popUp .tooltip{
+	behavior: url(assets/css/PIE.htc);
+}
+footer .country {
+	behavior: url(assets/css/PIE.htc);
+}
+

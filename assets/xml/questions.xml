@@ -1,0 +1,47 @@
+<questions>
+	<question id="1">
+		<text value="I will be using my Card for:"/>
+		<answer-a value="Business use" />
+		<response-a value="business" />
+		<answer-b value="Personal use" />
+		<response-b value="personal" />
+		<description-a value="We have a selection of Cards designed with businesses in mind. These Cards feature tools and services that have been created specifically for businesses." />
+		<description-b value="We have a range of personal Cards that have been designed to match your lifestyle. These offer travel rewards and other features to help you get the most out of life." />
+	</question>
+  <question id="2">
+    <text value="I would like to pay%3Cbr%3Emy Card balance:"/>
+    <answer-a value="In full" />
+    <response-a value="charge" />
+    <answer-b value="As I can" />
+    <response-b value="credit" />
+    <description-a value="If you pay your Card balance each month, you’ll benefit from a Charge Card." />
+    <description-b value="If you would like flexibility with your Card repayments, you will benefit from a Credit Card." />
+  </question>
+  <question id="3">
+    <text value="I mainly redeem my%3Cbr%3Erewards points:"/>
+    <answer-a value="For travel" />
+    <response-a value="travel" />
+    <answer-b value="For rewards" />
+    <response-b value="rewards" />
+    <description-a value="If you consider yourself a frequent traveller, you’ll be able to use your points towards flights and other travel expenses with our affiliate airlines. " />
+    <description-b value="Our Membership Rewards program has an extensive selection of 1,500 quality rewards to choose from including Gift Cards, technology, homeware and travel." />
+  </question>
+  <question id="4">
+    <text value="I would like to earn%3Cbr%3Etravel points for:"/>
+    <answer-a value="Qantas travel" />
+    <response-a value="flyPartnerQantas" />
+    <answer-b value="Other airlines" />
+    <response-b value="flyPartnerOther" />
+    <description-a value="Select Cards will allow you to transfer points to the Qantas Frequent Flyer program which will allow you to redeem for Qantas flights and their 25 partner airlines." />
+    <description-b value="You can transfer your Membership Rewards points to 7 airline partner programs - Air New Zealand, Cathay Pacific, Malaysian Airlines, Singapore Airlines, Thai Airways, Virgin Blue and Virgin Atlantic Flying Club." />
+  </question>
+  <question id="5">
+    <text value="I would like to earn%3Cbr%3Erewards points at:"/>
+    <answer-a value="An accelerated earn rate" />
+    <response-a value="accelerated" />
+    <answer-b value="Any rate" />
+    <response-b value="anyrate" />
+    <description-a value="You can earn rewards faster with this range of Cards." />
+    <description-b value="American Express Membership Rewards is a leading rewards program that provides a generous earn rate regardless of the program tier you select." />
+  </question>
+</questions>
